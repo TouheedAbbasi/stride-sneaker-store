@@ -1,0 +1,8 @@
+{
+  "name": "STRIDE - Move Different | Modern Sneaker Brand",
+  "description": "High-conversion, modern e-commerce storefront for STRIDE premium athletic and lifestyle footwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
